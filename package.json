@@ -1,6 +1,6 @@
 {
   "name": "react-app",
-  "homepage":"https://kanika-07cs.github.io/react-app-lazyLoading",
+  "homepage": "https://kanika-07cs.github.io/react-app-lazyLoading",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,7 @@
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-lazy-load-image-component": "^1.6.3",
     "react-router-dom": "^7.1.5"
   },
   "devDependencies": {
